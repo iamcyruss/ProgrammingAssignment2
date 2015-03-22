@@ -1,3 +1,5 @@
+## I had a rough time on this.  I used Stack overflow to get through it.  I used this http://stackoverflow.com/questions/23796316/returning-the-inverse-matrix-from-a-cached-object-in-r
+## I want to make sure I give credit to stack overflow for the help.
 ## Put comments here that give an overall description of what your
 ## functions do
 
